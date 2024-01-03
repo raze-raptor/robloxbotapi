@@ -1,0 +1,3 @@
+discord-py-slash-command==1.0.0
+requests==2.25.1
+ro-py==0.7.0
